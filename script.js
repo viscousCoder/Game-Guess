@@ -27,7 +27,6 @@ function initialValues() {
   current1.textContent = 0;
 
   image.classList.add("hidden");
-  //   image.classList.add("hidden");
   player0.classList.add(`player--active`);
   player1.classList.remove("player--active");
   player0.classList.remove("player--winner");
